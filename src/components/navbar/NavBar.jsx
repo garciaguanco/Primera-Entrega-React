@@ -1,4 +1,4 @@
-n
+
 import CartWidget from "../CartWidget/CartWidget";
 
 function NavBar() {
