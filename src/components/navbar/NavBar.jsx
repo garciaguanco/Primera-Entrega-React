@@ -1,4 +1,3 @@
-
 import CartWidget from "../CartWidget/CartWidget";
 
 function NavBar() {
@@ -19,11 +18,11 @@ function NavBar() {
               </a>
             </div>
           </div>
-          <CartWidget />
+          <CartWidget/>
         </div>
       </nav>
     </div>
   );
 }
 
-export default NavBar;
+export default NavBar;
